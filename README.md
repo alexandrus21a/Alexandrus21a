@@ -12,7 +12,7 @@
 </p>
 
 ## Connect with Me⠀
-[Telegram](https://t.me/alexandrus21dev)
+[Telegram](http://t.me/FeedbackAlexandrus21_bot)
 <br />
 
 ## Languages and Tools⠀
