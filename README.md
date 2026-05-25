@@ -110,8 +110,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexandrus21a&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexandrus21a&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alexandrus21a&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Alexandrus21a&show_icons=true&theme=radical&locale=en&layout=compact&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <p align="center">
